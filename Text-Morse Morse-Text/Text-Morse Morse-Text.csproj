@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Text_Morse_Morse_Text</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Text to Morse/Morse to Text</Title>
+    <Version>1.5</Version>
+    <Authors>Andrei Emilian Rachita</Authors>
+    <Company>Andrei Emilian Rachita</Company>
+    <Product>Text to Morse/Morse to Text</Product>
+    <Description>A text to morse code/morse code to text converter</Description>
+  </PropertyGroup>
+
+</Project>
